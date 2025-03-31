@@ -16,9 +16,9 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm expanding my knowledge w
 - Improving my UI/UX design skills
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/shivamthapliyal20001006/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/shivamthapliyal20001006/)
 - Email: shivamthapliyal571@gmail.com
-- Portfolio: [Your Portfolio](https://shivam-portfolio-one.vercel.app/)
+- Portfolio: [My Portfolio](https://shivam-portfolio-one.vercel.app/)
 
 ## 🤝 Open to Collaborate
 I'm always interested in collaborating on interesting projects! Feel free to reach out if you'd like to work together or just want to connect.
