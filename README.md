@@ -83,7 +83,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm expanding my knowledge w
  </div>
  </details>
  
- <details open>
+
 <!--  <summary><h2>🏆 Recent Projects</h2></summary>
  <div align="center">
    <table>
@@ -114,7 +114,7 @@ I enjoy working with HTML, CSS, and JavaScript, and I'm expanding my knowledge w
  </div> -->
  </details>
  
- <details open>
+
  <summary><h2>💡 Random Dev Quote</h2></summary>
  <div align="center">
    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
